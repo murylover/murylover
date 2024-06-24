@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**murylover/murylover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Murylo vaconcelos
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+murylovasconcelos5@gmail.com
+
+@_murylover_
+
+![image](https://github.com/murylover/murylover/assets/173709221/29b77666-30c8-404d-b4c6-801e982aef01)
